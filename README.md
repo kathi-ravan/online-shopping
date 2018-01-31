@@ -1,1 +1,3 @@
 # online-shopping
+
+pwd: admin
